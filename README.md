@@ -1,5 +1,5 @@
-- [Chinese](README.md)
-- [English](README_EN.md)
+- [Chinese](README_CN.md)
+- [English](README.md)
 
 # Update List
 
@@ -21,3 +21,5 @@ For 3D printed model files or any issues and malfunctions with the keyboard, ple
 
 <img src="keymap-drawer/sofle.svg" >
 
+# Keymap Editor
+[ZMK Keymap Editor](https://nickcoutsos.github.io/keymap-editor/)
