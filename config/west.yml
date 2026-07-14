@@ -16,7 +16,7 @@ manifest:
       remote: gpeye
       revision: main 
     - name: zmk
-      remote: zmkfirmware
+      remote: hugo141
       revision: v1.0.0
       import: app/west.yml
   self:
