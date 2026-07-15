@@ -58,9 +58,9 @@ layers:
   - $$mdi:apple-keyboard-option$$
   - $$mdi:keyboard-space$$
   - '2'
-  - LEFT BRAKET
+  - {t: '[', s: '{'}
   - $$mdi:mouse-left-click-outline$$
-  - RIGHT BRAKET
+  - {t: ']', s: '}'}
   - layer1
   - {t: '$$mdi:backspace$$', type: backspace}
   - $$mdi:apple-keyboard-command$$
@@ -79,7 +79,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - $$mdi:keyboard-esc$$
   - '1'
   - '2'
   - '3'
